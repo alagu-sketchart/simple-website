@@ -1,0 +1,12 @@
+bo {
+    text-align: right;
+    display: flex;
+}
+.grid {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    display: flex;
+}
+.h3 {
+    color: brown;
+}
